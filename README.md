@@ -45,15 +45,13 @@ We achieved high performance for image SR, with PSNR value of 36.02 for scale fa
 <details>
 <summary>Input Image</summary>
 <p align="center">
-  <img width="800" src="assets/input.png">
-  <img width="700" height="500" src="assets/1.png">
+  <img src="TestImages/1.jpg">
 </p>
 </details>
 <details>
 <summary>Output Image</summary>
 <p align="center">
-  <img width="800" src="assets/input.png">
-  <img width="700" height="500" src="assets/output1.png">
+  <img src="assets/output1.jpg">
 </p>
 </details>
 
