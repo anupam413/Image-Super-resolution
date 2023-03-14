@@ -39,6 +39,12 @@ For testing, run the following code after training the model.
 $ python sample.py
 ```
 
+### Run
+To run the program, GUI with Tkinter was made which can be run using:
+```shell
+$ python gui.py
+```
+
 ### Results
 We achieved high performance for image SR, with PSNR value of 36.02 for scale factor of 2 and 30.04 for scale factor of 4. The input and outpur from our model can be seen in TestImages folder.
 
